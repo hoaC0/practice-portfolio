@@ -3,7 +3,7 @@
 This repository contains the source code for practice purposes
 
 ## website url
-
+https://hoac0.github.io/practice-portfolio/
 
 
 ## Description
@@ -19,4 +19,3 @@ for practice purposes, i visited went through some other developers portfolio's 
 
 email: hoachau1010@gmail.com
 
-Project Link: https://hoachau.de
