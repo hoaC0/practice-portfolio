@@ -1,6 +1,6 @@
 # practice-portfolio
 
-This repository contains the source code for practice purposes
+This repository contains the source code for this little project
 
 ## website url
 https://hoac0.github.io/practice-portfolio/
